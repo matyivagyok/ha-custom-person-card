@@ -1,4 +1,12 @@
 /* jshint esversion: 11 */
+
+// Version print to console - helps debug caching issues
+console.info(
+  `%c  CUSTOM-PERSON-CARD  \n%c  Version 0.1.0       `,
+  'color: orange; font-weight: bold; background: black',
+  'color: white; font-weight: bold; background: dimgray',
+);
+
 class CustomPersonCard extends HTMLElement {
   // 1. Define the Visual Editor
   static getConfigElement() {
