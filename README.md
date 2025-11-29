@@ -1,13 +1,10 @@
-
 # **Custom Person Card**
 
 A modern, Mushroom-inspired person card for Home Assistant that combines presence status with battery monitoring.
 
-## **Screenshots**
+## Screenshots
 
-| **Vertical (Mushroom)** | **Horizontal (Wide)** |
-| ----------------------------- | --------------------------- |
-| ``                     | ``                   |
+![Alt text](images\Default.png)      ![Alt text](images\Wide.png)
 
 ## **Features**
 
