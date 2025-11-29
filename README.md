@@ -5,17 +5,9 @@ A modern, Mushroom-inspired person card for Home Assistant that combines presenc
 
 ## **Screenshots**
 
-<!--
-
-REPLACE 'images' WITH YOUR FOLDER NAME
-
-REPLACE 'vertical_card.png' WITH YOUR ACTUAL FILENAME
-
--->
-
 | **Vertical (Mushroom)** | **Horizontal (Wide)** |
 | ----------------------------- | --------------------------- |
-|                               |                             |
+| ``                     | ``                   |
 
 ## **Features**
 
